@@ -6,6 +6,7 @@
     - [Core Perception](https://gitlab.com/autowarefoundation/autoware.ai/core_perception)
 - [Group](https://groups.google.com/forum/#!forum/autoware)
 - [discourse.ros](https://discourse.ros.org/c/autoware)
+- [Slack](https://autoware.herokuapp.com/)
 - [ROS Question \w Autoware TAG](https://answers.ros.org/questions/scope:all/sort:activity-desc/tags:autoware/page:1/)
 - [ROS bag Store](https://rosbag.tier4.jp)
 
