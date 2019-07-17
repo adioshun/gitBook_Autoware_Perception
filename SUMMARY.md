@@ -3,9 +3,9 @@
 ## Autoware 
 
 - [README](README.md)
-- [References](References.md)
 - [Overview](Fundamental/README.md)
 - [설치](Installation.md)
+- [References](References.md)
 
 ## Autoware User Manual
 
@@ -20,4 +20,4 @@
 ## 미분류 
 
 - [README](etc/README.md)
-- [How to train your team with ROS self-driving cars](etc/How to train your team with ROS self-driving cars.md)
+- [How to train your team with ROS self-driving cars](etc/How-to-train-your-team-with-ROS-self-driving-cars.md)
