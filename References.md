@@ -2,7 +2,7 @@
 
 - [홈페이지](http://tier4.jp)
 - [메뉴얼](https://github.com/CPFL/Autoware-Manuals/blob/master/en/Autoware_UsersManual_v1.1.md) [[Read The Docs]](https://autoware.readthedocs.io/en/feature-documentation_rtd/index.html)
-- [GitLab](https://gitlab.com/autowarefoundation/autoware.ai)
+- [GitLab](https://gitlab.com/autowarefoundation/autoware.ai), ~~[깃허브](https://github.com/autowarefoundation)~~
     - [Core Perception](https://gitlab.com/autowarefoundation/autoware.ai/core_perception)
 - [Group](https://groups.google.com/forum/#!forum/autoware)
 - [discourse.ros](https://discourse.ros.org/c/autoware)
@@ -18,7 +18,6 @@
     - [Map Tools](https://maptools.tier4.jp/) : You may create 3D map data through Tier IV's Map Tools. The 3D map data used in Autoware are composed of point cloud structure data and vector feature data.
 
 
-- github : [Autoware](https://github.com/autowarefoundation), []()
 
 ## 1. List
 
@@ -33,7 +32,9 @@
 
 ## 3. Article (Post, blog, etc.)
 
+- [Autoware is an “All-in-One” Open-source Software for Autonomous Driving](https://www.cnx-software.com/2019/02/07/autoware-open-source-software-autonomous-driving/)
 
+- [자율주행 오픈소스 OS 연합 ‘오토웨어 파운데이션’](http://www.autoelectronics.co.kr/article/articleView.asp?idx=3043)
 
 ## 3. Tutorial (Series, )
 
