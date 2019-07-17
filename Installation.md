@@ -1,6 +1,39 @@
-## 2. The operations of main functionalities 
+## 1. 설치 
 
-> [youtube](https://www.youtube.com/watch?v=NDNcy0C-Has)
+### 1.1 [도커 ](https://gitlab.com/autowarefoundation/autoware.ai/autoware/wikis/Generic-x86-Docker)
+
+Autoware newer than 1.6.0 is supported in Docker
+
+
+    [요구사항]
+    Ubuntu 16.04 / 18.04
+    Generic amd64 (64-bit x86) Docker
+    
+
+#### A. Case 1: Using Pre-built Autoware Docker Images
+
+
+
+
+#### B. Case 2: Creating a Custom Autoware Docker Image
+
+```
+$ git clone https://gitlab.com/autowarefoundation/autoware.ai/docker.git
+$ cd docker/generic
+$ ./build.sh
+```
+
+
+### 1.2 소스 코드 
+
+https://gitlab.com/autowarefoundation/autoware.ai/autoware/wikis/Source-Build
+
+
+---
+
+## 2. Quick Start : The operations of main functionalities 
+
+> [Quick Start : youtube](https://www.youtube.com/watch?v=NDNcy0C-Has)
 
 ### 2.1 replay of demo data
 - Replay the rosbag demo data downloaded from Nagoya University.
@@ -12,7 +45,7 @@
     6. Motion following
     
 
-#### A. Setup of demo data
+#### A. Setup of demo data : [ROSBAG Demo](https://gitlab.com/autowarefoundation/autoware.ai/autoware/wikis/ROSBAG-Demo)
 
 
 - 데이터셋 준비 
